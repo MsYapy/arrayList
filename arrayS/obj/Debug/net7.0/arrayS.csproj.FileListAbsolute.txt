@@ -1,0 +1,14 @@
+C:\Users\yesi.poveda\source\repos\arrayS\arrayS\obj\Debug\net7.0\arrayS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yesi.poveda\source\repos\arrayS\arrayS\obj\Debug\net7.0\arrayS.AssemblyInfoInputs.cache
+C:\Users\yesi.poveda\source\repos\arrayS\arrayS\obj\Debug\net7.0\arrayS.AssemblyInfo.cs
+C:\Users\yesi.poveda\source\repos\arrayS\arrayS\obj\Debug\net7.0\arrayS.csproj.CoreCompileInputs.cache
+C:\Users\yesi.poveda\source\repos\arrayS\arrayS\bin\Debug\net7.0\arrayS.exe
+C:\Users\yesi.poveda\source\repos\arrayS\arrayS\bin\Debug\net7.0\arrayS.deps.json
+C:\Users\yesi.poveda\source\repos\arrayS\arrayS\bin\Debug\net7.0\arrayS.runtimeconfig.json
+C:\Users\yesi.poveda\source\repos\arrayS\arrayS\bin\Debug\net7.0\arrayS.dll
+C:\Users\yesi.poveda\source\repos\arrayS\arrayS\bin\Debug\net7.0\arrayS.pdb
+C:\Users\yesi.poveda\source\repos\arrayS\arrayS\obj\Debug\net7.0\arrayS.dll
+C:\Users\yesi.poveda\source\repos\arrayS\arrayS\obj\Debug\net7.0\refint\arrayS.dll
+C:\Users\yesi.poveda\source\repos\arrayS\arrayS\obj\Debug\net7.0\arrayS.pdb
+C:\Users\yesi.poveda\source\repos\arrayS\arrayS\obj\Debug\net7.0\arrayS.genruntimeconfig.cache
+C:\Users\yesi.poveda\source\repos\arrayS\arrayS\obj\Debug\net7.0\ref\arrayS.dll
